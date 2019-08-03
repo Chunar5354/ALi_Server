@@ -1,0 +1,1585 @@
+2019-06-04 15:22:51 pid:1217 Workerman[recevier_30001.php] start in DAEMON mode
+2019-06-04 15:42:08 pid:1328 Workerman[recevier_30001.php] restart 
+2019-06-04 15:42:08 pid:1328 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 15:42:08 pid:1219 Workerman[recevier_30001.php] stopping ...
+2019-06-04 15:42:08 pid:1219 Workerman[recevier_30001.php] has been stopped
+2019-06-04 15:42:08 pid:1328 Workerman[recevier_30001.php] stop success
+2019-06-04 15:46:00 pid:1345 Workerman[recevier_30001.php] restart 
+2019-06-04 15:46:01 pid:1345 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 15:46:01 pid:1330 Workerman[recevier_30001.php] stopping ...
+2019-06-04 15:46:01 pid:1330 Workerman[recevier_30001.php] has been stopped
+2019-06-04 15:46:01 pid:1345 Workerman[recevier_30001.php] stop success
+2019-06-04 17:19:42 pid:1545 Workerman[recevier_30001.php] restart 
+2019-06-04 17:19:42 pid:1545 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 17:19:42 pid:1347 Workerman[recevier_30001.php] stopping ...
+2019-06-04 17:19:42 pid:1347 Workerman[recevier_30001.php] has been stopped
+2019-06-04 17:19:42 pid:1545 Workerman[recevier_30001.php] stop success
+2019-06-04 17:26:19 pid:1550 Worker[1550] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:26:19 pid:1548 worker[none:1550] exit with status 65280
+2019-06-04 17:39:24 pid:1552 Worker[1552] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:39:24 pid:1548 worker[none:1552] exit with status 65280
+2019-06-04 17:40:44 pid:1553 Worker[1553] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:40:44 pid:1548 worker[none:1553] exit with status 65280
+2019-06-04 17:41:52 pid:1551 Worker[1551] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:41:53 pid:1548 worker[none:1551] exit with status 65280
+2019-06-04 17:42:09 pid:1576 Worker[1576] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:42:09 pid:1548 worker[none:1576] exit with status 65280
+2019-06-04 17:42:32 pid:1560 Worker[1560] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:42:32 pid:1548 worker[none:1560] exit with status 65280
+2019-06-04 17:42:48 pid:1583 Worker[1583] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:42:48 pid:1548 worker[none:1583] exit with status 65280
+2019-06-04 17:44:40 pid:1593 Worker[1593] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:44:40 pid:1548 worker[none:1593] exit with status 65280
+2019-06-04 17:45:21 pid:1592 Worker[1592] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:45:21 pid:1548 worker[none:1592] exit with status 65280
+2019-06-04 17:47:11 pid:1596 Worker[1596] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:47:11 pid:1548 worker[none:1596] exit with status 65280
+2019-06-04 17:49:00 pid:1598 Worker[1598] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:49:00 pid:1548 worker[none:1598] exit with status 65280
+2019-06-04 17:56:07 pid:1585 Worker[1585] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 17:56:07 pid:1548 worker[none:1585] exit with status 65280
+2019-06-04 18:10:29 pid:1759 Workerman[recevier_30001.php] restart 
+2019-06-04 18:10:29 pid:1759 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 18:10:29 pid:1548 Workerman[recevier_30001.php] stopping ...
+2019-06-04 18:10:29 pid:1548 Workerman[recevier_30001.php] has been stopped
+2019-06-04 18:10:29 pid:1759 Workerman[recevier_30001.php] stop success
+2019-06-04 18:10:36 pid:1762 Worker[1762] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 18:10:37 pid:1761 worker[none:1762] exit with status 65280
+2019-06-04 18:15:08 pid:1795 Workerman[recevier_30001.php] restart 
+2019-06-04 18:15:08 pid:1795 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 18:15:08 pid:1761 Workerman[recevier_30001.php] stopping ...
+2019-06-04 18:15:08 pid:1761 Workerman[recevier_30001.php] has been stopped
+2019-06-04 18:15:08 pid:1795 Workerman[recevier_30001.php] stop success
+2019-06-04 18:15:15 pid:1799 Worker[1799] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 18:15:15 pid:1797 worker[none:1799] exit with status 65280
+2019-06-04 18:15:44 pid:1798 Worker[1798] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 18:15:44 pid:1797 worker[none:1798] exit with status 65280
+2019-06-04 18:26:19 pid:1802 Worker[1802] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 18:26:19 pid:1797 worker[none:1802] exit with status 65280
+2019-06-04 18:28:29 pid:1819 Workerman[recevier_30001.php] restart 
+2019-06-04 18:28:29 pid:1819 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 18:28:29 pid:1797 Workerman[recevier_30001.php] stopping ...
+2019-06-04 18:28:29 pid:1797 Workerman[recevier_30001.php] has been stopped
+2019-06-04 18:28:29 pid:1819 Workerman[recevier_30001.php] stop success
+2019-06-04 18:28:41 pid:1822 Worker[1822] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 18:28:41 pid:1821 worker[none:1822] exit with status 65280
+2019-06-04 18:51:49 pid:1825 Worker[1825] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 18:51:49 pid:1821 worker[none:1825] exit with status 65280
+2019-06-04 19:24:48 pid:1823 Worker[1823] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 19:24:48 pid:1821 worker[none:1823] exit with status 65280
+2019-06-04 19:26:19 pid:1826 Worker[1826] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 19:26:19 pid:1821 worker[none:1826] exit with status 65280
+2019-06-04 19:27:12 pid:1945 Workerman[recevier_30001.php] restart 
+2019-06-04 19:27:12 pid:1945 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 19:27:12 pid:1821 Workerman[recevier_30001.php] stopping ...
+2019-06-04 19:27:12 pid:1821 Workerman[recevier_30001.php] has been stopped
+2019-06-04 19:27:12 pid:1945 Workerman[recevier_30001.php] stop success
+2019-06-04 19:27:23 pid:1951 Worker[1951] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 19:27:23 pid:1948 worker[none:1951] exit with status 65280
+2019-06-04 19:31:03 pid:1966 Workerman[recevier_30001.php] restart 
+2019-06-04 19:31:03 pid:1966 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 19:31:03 pid:1948 Workerman[recevier_30001.php] stopping ...
+2019-06-04 19:31:03 pid:1948 Workerman[recevier_30001.php] has been stopped
+2019-06-04 19:31:03 pid:1966 Workerman[recevier_30001.php] stop success
+2019-06-04 19:31:50 pid:1976 Workerman[recevier_30001.php] restart 
+2019-06-04 19:31:50 pid:1976 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 19:31:50 pid:1968 Workerman[recevier_30001.php] stopping ...
+2019-06-04 19:31:50 pid:1968 Workerman[recevier_30001.php] has been stopped
+2019-06-04 19:31:50 pid:1976 Workerman[recevier_30001.php] stop success
+2019-06-04 19:31:57 pid:1980 Worker[1980] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 19:31:57 pid:1978 worker[none:1980] exit with status 65280
+2019-06-04 19:32:56 pid:1981 Worker[1981] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 19:32:56 pid:1978 worker[none:1981] exit with status 65280
+2019-06-04 19:34:57 pid:1983 Worker[1983] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 19:34:57 pid:1978 worker[none:1983] exit with status 65280
+2019-06-04 21:32:54 pid:2249 Workerman[recevier_30001.php] restart 
+2019-06-04 21:32:54 pid:2249 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 21:32:54 pid:1978 Workerman[recevier_30001.php] stopping ...
+2019-06-04 21:32:54 pid:1978 Workerman[recevier_30001.php] has been stopped
+2019-06-04 21:32:54 pid:2249 Workerman[recevier_30001.php] stop success
+2019-06-04 21:33:41 pid:2255 Worker[2255] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 21:33:41 pid:2251 worker[none:2255] exit with status 65280
+2019-06-04 21:39:47 pid:2276 Workerman[recevier_30001.php] restart 
+2019-06-04 21:39:47 pid:2276 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 21:39:47 pid:2251 Workerman[recevier_30001.php] stopping ...
+2019-06-04 21:39:47 pid:2251 Workerman[recevier_30001.php] has been stopped
+2019-06-04 21:39:47 pid:2276 Workerman[recevier_30001.php] stop success
+2019-06-04 21:39:54 pid:2279 Worker[2279] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 21:39:54 pid:2278 worker[none:2279] exit with status 65280
+2019-06-04 21:44:34 pid:2306 Workerman[recevier_30001.php] restart 
+2019-06-04 21:44:34 pid:2306 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 21:44:34 pid:2278 Workerman[recevier_30001.php] stopping ...
+2019-06-04 21:44:34 pid:2278 Workerman[recevier_30001.php] has been stopped
+2019-06-04 21:44:34 pid:2306 Workerman[recevier_30001.php] stop success
+2019-06-04 21:44:54 pid:2312 Worker[2312] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 21:44:54 pid:2308 worker[none:2312] exit with status 65280
+2019-06-04 21:45:56 pid:2321 Workerman[recevier_30001.php] restart 
+2019-06-04 21:45:56 pid:2321 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 21:45:56 pid:2308 Workerman[recevier_30001.php] stopping ...
+2019-06-04 21:45:56 pid:2308 Workerman[recevier_30001.php] has been stopped
+2019-06-04 21:45:56 pid:2321 Workerman[recevier_30001.php] stop success
+2019-06-04 21:46:17 pid:2326 Worker[2326] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 21:46:17 pid:2323 worker[none:2326] exit with status 65280
+2019-06-04 21:56:29 pid:2327 Worker[2327] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 21:56:29 pid:2323 worker[none:2327] exit with status 65280
+2019-06-04 21:58:51 pid:2413 Workerman[recevier_30001.php] restart 
+2019-06-04 21:58:51 pid:2413 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 21:58:51 pid:2323 Workerman[recevier_30001.php] stopping ...
+2019-06-04 21:58:51 pid:2323 Workerman[recevier_30001.php] has been stopped
+2019-06-04 21:58:51 pid:2413 Workerman[recevier_30001.php] stop success
+2019-06-04 21:59:29 pid:2419 Worker[2419] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 21:59:29 pid:2415 worker[none:2419] exit with status 65280
+2019-06-04 22:21:54 pid:2460 Workerman[recevier_30001.php] restart 
+2019-06-04 22:21:54 pid:2460 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 22:21:54 pid:2415 Workerman[recevier_30001.php] stopping ...
+2019-06-04 22:21:54 pid:2415 Workerman[recevier_30001.php] has been stopped
+2019-06-04 22:21:54 pid:2460 Workerman[recevier_30001.php] stop success
+2019-06-04 22:22:04 pid:2464 Worker[2464] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 22:22:04 pid:2462 worker[none:2464] exit with status 65280
+2019-06-04 23:00:56 pid:2465 Worker[2465] process terminated with ERROR: E_ERROR "Interface 'Moech\Interfaces\DataConveyInterface' not found in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-04 23:00:56 pid:2462 worker[none:2465] exit with status 65280
+2019-06-04 23:02:03 pid:3700 Workerman[recevier_30001.php] restart 
+2019-06-04 23:02:03 pid:3700 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 23:02:03 pid:2462 Workerman[recevier_30001.php] stopping ...
+2019-06-04 23:02:03 pid:2462 Workerman[recevier_30001.php] has been stopped
+2019-06-04 23:02:03 pid:3700 Workerman[recevier_30001.php] stop success
+2019-06-04 23:02:10 pid:3706 Error: Call to a member function execute() on null in /home/archer/instance_30001/src/RaspiDataConvey.php:68
+Stack trace:
+#0 /home/archer/instance_30001/api/recevier_30001.php(33): Moech\RaspiDataConvey->goInReDB(Array)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "time": "...')
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "time": "...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #49)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/recevier_30001.php(39): Workerman\Worker::runAll()
+#11 {main}
+2019-06-04 23:02:10 pid:3706 Worker[3706] process terminated
+2019-06-04 23:02:10 pid:3702 worker[none:3706] exit with status 64000
+2019-06-04 23:06:22 pid:3727 Workerman[recevier_30001.php] restart 
+2019-06-04 23:06:22 pid:3727 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 23:06:22 pid:3702 Workerman[recevier_30001.php] stopping ...
+2019-06-04 23:06:22 pid:3702 Workerman[recevier_30001.php] has been stopped
+2019-06-04 23:06:22 pid:3727 Workerman[recevier_30001.php] stop success
+2019-06-04 23:06:37 pid:3733 Error: Call to a member function execute() on null in /home/archer/instance_30001/src/RaspiDataConvey.php:68
+Stack trace:
+#0 /home/archer/instance_30001/api/recevier_30001.php(32): Moech\RaspiDataConvey->goInReDB(Array)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "time": "...')
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "time": "...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #46)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/recevier_30001.php(38): Workerman\Worker::runAll()
+#11 {main}
+2019-06-04 23:06:37 pid:3733 Worker[3733] process terminated
+2019-06-04 23:06:37 pid:3729 worker[none:3733] exit with status 64000
+2019-06-04 23:10:31 pid:3747 Workerman[recevier_30001.php] restart 
+2019-06-04 23:10:31 pid:3747 Workerman[recevier_30001.php] is stopping ...
+2019-06-04 23:10:31 pid:3729 Workerman[recevier_30001.php] stopping ...
+2019-06-04 23:10:31 pid:3729 Workerman[recevier_30001.php] has been stopped
+2019-06-04 23:10:31 pid:3747 Workerman[recevier_30001.php] stop success
+2019-06-04 23:10:37 pid:3751 Error: Call to a member function execute() on null in /home/archer/instance_30001/src/RaspiDataConvey.php:68
+Stack trace:
+#0 /home/archer/instance_30001/api/recevier_30001.php(32): Moech\RaspiDataConvey->goInReDB(Array)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "time": "...')
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "time": "...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #46)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/recevier_30001.php(38): Workerman\Worker::runAll()
+#11 {main}
+2019-06-04 23:10:37 pid:3751 Worker[3751] process terminated
+2019-06-04 23:10:37 pid:3749 worker[none:3751] exit with status 64000
+2019-06-05 10:21:32 pid:3752 TypeError: Argument 1 passed to Moech\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/recevier_30001.php on line 29 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:25
+Stack trace:
+#0 /home/archer/instance_30001/api/recevier_30001.php(29): Moech\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{"vibrate": [4....')
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"vibrate": [4....')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/recevier_30001.php(38): Workerman\Worker::runAll()
+#11 {main}
+2019-06-05 10:21:32 pid:3752 Worker[3752] process terminated
+2019-06-05 10:21:32 pid:3749 worker[none:3752] exit with status 64000
+2019-06-05 13:42:23 pid:6019 Workerman[recevier_30001.php] stop 
+2019-06-05 13:42:23 pid:6019 Workerman[recevier_30001.php] is stopping ...
+2019-06-05 13:42:23 pid:3749 Workerman[recevier_30001.php] stopping ...
+2019-06-05 13:42:23 pid:3749 Workerman[recevier_30001.php] has been stopped
+2019-06-05 13:42:23 pid:6019 Workerman[recevier_30001.php] stop success
+2019-06-05 13:42:58 pid:6024 Workerman[receiver_30001.php] start in DAEMON mode
+2019-06-05 13:58:17 pid:6105 Workerman[receiver_30001.php] restart 
+2019-06-05 13:58:17 pid:6105 Workerman[receiver_30001.php] is stopping ...
+2019-06-05 13:58:17 pid:6026 Workerman[receiver_30001.php] stopping ...
+2019-06-05 13:58:17 pid:6026 Workerman[receiver_30001.php] has been stopped
+2019-06-05 13:58:17 pid:6105 Workerman[receiver_30001.php] stop success
+2019-06-07 23:28:58 pid:6108 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:32
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #177)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#11 {main}
+2019-06-07 23:28:58 pid:6108 Worker[6108] process terminated
+2019-06-07 23:28:58 pid:6107 worker[none:6108] exit with status 64000
+2019-06-07 23:28:59 pid:6109 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:32
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #226)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#11 {main}
+2019-06-07 23:28:59 pid:6109 Worker[6109] process terminated
+2019-06-07 23:28:59 pid:6107 worker[none:6109] exit with status 64000
+2019-06-08 09:05:36 pid:6111 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::goInNoDB() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 25 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:118
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"time": "2019-...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #131)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#11 {main}
+2019-06-08 09:05:36 pid:6111 Worker[6111] process terminated
+2019-06-08 09:05:36 pid:6107 worker[none:6111] exit with status 64000
+2019-06-08 09:06:58 pid:6110 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::goInNoDB() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 25 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:119
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"id": "raspber...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #871)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#11 {main}
+2019-06-08 09:06:58 pid:6110 Worker[6110] process terminated
+2019-06-08 09:06:58 pid:6107 worker[none:6110] exit with status 64000
+2019-06-08 09:07:59 pid:11909 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::goInNoDB() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 25 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:118
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"data": {}, "o...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-08 09:07:59 pid:11909 Worker[11909] process terminated
+2019-06-08 09:07:59 pid:6107 worker[none:11909] exit with status 64000
+2019-06-08 20:24:50 pid:11908 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:32
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #47)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-08 20:24:50 pid:11908 Worker[11908] process terminated
+2019-06-08 20:24:50 pid:6107 worker[none:11908] exit with status 64000
+2019-06-09 02:25:47 pid:13637 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:32
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #49)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-09 02:25:47 pid:13637 Worker[13637] process terminated
+2019-06-09 02:25:47 pid:6107 worker[none:13637] exit with status 64000
+2019-06-10 20:55:15 pid:13655 Worker[13655] process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required '/home/archer/instance_30001/src/../../../vendor/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-10 20:55:15 pid:6107 worker[none:13655] exit with status 65280
+2019-06-10 21:37:34 pid:21538 Workerman[socket_sender_40002.php] start in DAEMON mode
+2019-06-10 21:39:41 pid:21543 Predis\Response\ServerException: ERR min or max is not a float in /home/archer/instance_30001/vendor/predis/predis/src/Client.php:370
+Stack trace:
+#0 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(335): Predis\Client->onErrorResponse(Object(Predis\Command\ZSetRangeByScore), Object(Predis\Response\Error))
+#1 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(314): Predis\Client->executeCommand(Object(Predis\Command\ZSetRangeByScore))
+#2 /home/archer/instance_30001/src/RaspiDataConvey.php(177): Predis\Client->__call('zrangebyscore', Array)
+#3 /home/archer/instance_30001/api/socket_sender_40002.php(20): Moech\Data\Raspi\RaspiDataConvey->goOutNoDB('{\n    "dev_id":...')
+#4 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#13 /home/archer/instance_30001/api/socket_sender_40002.php(24): Workerman\Worker::runAll()
+#14 {main}
+2019-06-10 21:39:41 pid:21543 Worker[21543] process terminated
+2019-06-10 21:39:41 pid:21540 worker[none:21543] exit with status 64000
+2019-06-10 21:44:14 pid:21544 Predis\Response\ServerException: ERR min or max is not a float in /home/archer/instance_30001/vendor/predis/predis/src/Client.php:370
+Stack trace:
+#0 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(335): Predis\Client->onErrorResponse(Object(Predis\Command\ZSetRangeByScore), Object(Predis\Response\Error))
+#1 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(314): Predis\Client->executeCommand(Object(Predis\Command\ZSetRangeByScore))
+#2 /home/archer/instance_30001/src/RaspiDataConvey.php(183): Predis\Client->__call('zrangebyscore', Array)
+#3 /home/archer/instance_30001/api/socket_sender_40002.php(20): Moech\Data\Raspi\RaspiDataConvey->goOutNoDB('{\n    "dev_id":...')
+#4 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#13 /home/archer/instance_30001/api/socket_sender_40002.php(24): Workerman\Worker::runAll()
+#14 {main}
+2019-06-10 21:44:14 pid:21544 Worker[21544] process terminated
+2019-06-10 21:44:14 pid:21540 worker[none:21544] exit with status 64000
+2019-06-10 21:46:50 pid:21541 Predis\Response\ServerException: ERR min or max is not a float in /home/archer/instance_30001/vendor/predis/predis/src/Client.php:370
+Stack trace:
+#0 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(335): Predis\Client->onErrorResponse(Object(Predis\Command\ZSetRangeByScore), Object(Predis\Response\Error))
+#1 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(314): Predis\Client->executeCommand(Object(Predis\Command\ZSetRangeByScore))
+#2 /home/archer/instance_30001/src/RaspiDataConvey.php(183): Predis\Client->__call('zrangebyscore', Array)
+#3 /home/archer/instance_30001/api/socket_sender_40002.php(20): Moech\Data\Raspi\RaspiDataConvey->goOutNoDB('{\n    "dev_id":...')
+#4 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #43)
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#13 /home/archer/instance_30001/api/socket_sender_40002.php(24): Workerman\Worker::runAll()
+#14 {main}
+2019-06-10 21:46:50 pid:21541 Worker[21541] process terminated
+2019-06-10 21:46:50 pid:21540 worker[none:21541] exit with status 64000
+2019-06-10 21:50:13 pid:21554 Predis\Response\ServerException: ERR min or max is not a float in /home/archer/instance_30001/vendor/predis/predis/src/Client.php:370
+Stack trace:
+#0 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(335): Predis\Client->onErrorResponse(Object(Predis\Command\ZSetRangeByScore), Object(Predis\Response\Error))
+#1 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(314): Predis\Client->executeCommand(Object(Predis\Command\ZSetRangeByScore))
+#2 /home/archer/instance_30001/src/RaspiDataConvey.php(183): Predis\Client->__call('zrangebyscore', Array)
+#3 /home/archer/instance_30001/api/socket_sender_40002.php(20): Moech\Data\Raspi\RaspiDataConvey->goOutNoDB('{\n    "dev_id":...')
+#4 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #45)
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#13 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#14 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#15 /home/archer/instance_30001/api/socket_sender_40002.php(24): Workerman\Worker::runAll()
+#16 {main}
+2019-06-10 21:50:13 pid:21554 Worker[21554] process terminated
+2019-06-10 21:50:13 pid:21540 worker[none:21554] exit with status 64000
+2019-06-10 21:51:24 pid:21641 Workerman[socket_sender_40002.php] restart 
+2019-06-10 21:51:24 pid:21641 Workerman[socket_sender_40002.php] is stopping ...
+2019-06-10 21:51:24 pid:21540 Workerman[socket_sender_40002.php] stopping ...
+2019-06-10 21:51:24 pid:21540 Workerman[socket_sender_40002.php] has been stopped
+2019-06-10 21:51:24 pid:21641 Workerman[socket_sender_40002.php] stop success
+2019-06-10 21:51:35 pid:21647 Predis\Response\ServerException: ERR min or max is not a float in /home/archer/instance_30001/vendor/predis/predis/src/Client.php:370
+Stack trace:
+#0 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(335): Predis\Client->onErrorResponse(Object(Predis\Command\ZSetRangeByScore), Object(Predis\Response\Error))
+#1 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(314): Predis\Client->executeCommand(Object(Predis\Command\ZSetRangeByScore))
+#2 /home/archer/instance_30001/src/RaspiDataConvey.php(183): Predis\Client->__call('zrangebyscore', Array)
+#3 /home/archer/instance_30001/api/socket_sender_40002.php(24): Moech\Data\Raspi\RaspiDataConvey->goOutNoDB('{\n    "dev_id":...')
+#4 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #46)
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#13 /home/archer/instance_30001/api/socket_sender_40002.php(28): Workerman\Worker::runAll()
+#14 {main}
+2019-06-10 21:51:35 pid:21647 Worker[21647] process terminated
+2019-06-10 21:51:35 pid:21643 worker[none:21647] exit with status 64000
+2019-06-12 05:29:44 pid:21347 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:31
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #54)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-12 05:29:44 pid:21347 Worker[21347] process terminated
+2019-06-12 05:29:44 pid:6107 worker[none:21347] exit with status 64000
+2019-06-12 05:29:44 pid:13647 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:31
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #86)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-12 05:29:44 pid:13647 Worker[13647] process terminated
+2019-06-12 05:29:44 pid:6107 worker[none:13647] exit with status 64000
+2019-06-12 15:45:58 pid:17040 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::goInNoDB() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 25 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:138
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"data": {}, "o...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #55)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-12 15:45:58 pid:17040 Worker[17040] process terminated
+2019-06-12 15:45:58 pid:6107 worker[none:17040] exit with status 64000
+2019-06-12 19:11:49 pid:1771 Workerman[socket_sender_40002.php] restart 
+2019-06-12 19:11:49 pid:1771 Workerman[socket_sender_40002.php] is stopping ...
+2019-06-12 19:11:49 pid:21643 Workerman[socket_sender_40002.php] stopping ...
+2019-06-12 19:11:49 pid:21643 Workerman[socket_sender_40002.php] has been stopped
+2019-06-12 19:11:49 pid:1771 Workerman[socket_sender_40002.php] stop success
+2019-06-12 19:43:41 pid:2407 Workerman[socket_sender_40002.php] restart 
+2019-06-12 19:43:41 pid:2407 Workerman[socket_sender_40002.php] is stopping ...
+2019-06-12 19:43:41 pid:1774 Workerman[socket_sender_40002.php] stopping ...
+2019-06-12 19:43:41 pid:1774 Workerman[socket_sender_40002.php] has been stopped
+2019-06-12 19:43:41 pid:2407 Workerman[socket_sender_40002.php] stop success
+2019-06-12 21:30:43 pid:4804 Workerman[websocket_sender_40003.php] start in DAEMON mode
+2019-06-12 22:25:56 pid:5137 Workerman[socket_sender_40002.php] restart 
+2019-06-12 22:25:56 pid:5137 Workerman[socket_sender_40002.php] is stopping ...
+2019-06-12 22:25:56 pid:2409 Workerman[socket_sender_40002.php] stopping ...
+2019-06-12 22:25:56 pid:2409 Workerman[socket_sender_40002.php] has been stopped
+2019-06-12 22:25:56 pid:5137 Workerman[socket_sender_40002.php] stop success
+2019-06-12 22:26:30 pid:17465 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:31
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00+&\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #10407)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-12 22:26:30 pid:17465 Worker[17465] process terminated
+2019-06-12 22:26:30 pid:6107 worker[none:17465] exit with status 64000
+2019-06-12 22:40:26 pid:5140 Error: Call to a member function execute() on null in /home/archer/instance_30001/src/RaspiDataConvey.php:218
+Stack trace:
+#0 /home/archer/instance_30001/src/RaspiDataConvey.php(236): Moech\Data\Raspi\RaspiDataConvey->goOutReDB(Array)
+#1 /home/archer/instance_30001/api/socket_sender_40002.php(19): Moech\Data\Raspi\RaspiDataConvey->fetchData('{\n    "dev_id":...')
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#3 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #46)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#11 /home/archer/instance_30001/api/socket_sender_40002.php(23): Workerman\Worker::runAll()
+#12 {main}
+2019-06-12 22:40:26 pid:5140 Worker[5140] process terminated
+2019-06-12 22:40:26 pid:5139 worker[none:5140] exit with status 64000
+2019-06-12 22:40:38 pid:5142 Error: Call to a member function execute() on null in /home/archer/instance_30001/src/RaspiDataConvey.php:218
+Stack trace:
+#0 /home/archer/instance_30001/src/RaspiDataConvey.php(236): Moech\Data\Raspi\RaspiDataConvey->goOutReDB(Array)
+#1 /home/archer/instance_30001/api/socket_sender_40002.php(19): Moech\Data\Raspi\RaspiDataConvey->fetchData('{\n    "dev_id":...')
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#3 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #46)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#11 /home/archer/instance_30001/api/socket_sender_40002.php(23): Workerman\Worker::runAll()
+#12 {main}
+2019-06-12 22:40:38 pid:5142 Worker[5142] process terminated
+2019-06-12 22:40:38 pid:5139 worker[none:5142] exit with status 64000
+2019-06-12 22:40:41 pid:5268 Error: Call to a member function execute() on null in /home/archer/instance_30001/src/RaspiDataConvey.php:218
+Stack trace:
+#0 /home/archer/instance_30001/src/RaspiDataConvey.php(236): Moech\Data\Raspi\RaspiDataConvey->goOutReDB(Array)
+#1 /home/archer/instance_30001/api/socket_sender_40002.php(19): Moech\Data\Raspi\RaspiDataConvey->fetchData('{\n    "dev_id":...')
+#2 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#3 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{\n    "dev_id":...')
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #47)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#13 /home/archer/instance_30001/api/socket_sender_40002.php(23): Workerman\Worker::runAll()
+#14 {main}
+2019-06-12 22:40:41 pid:5268 Worker[5268] process terminated
+2019-06-12 22:40:41 pid:5139 worker[none:5268] exit with status 64000
+2019-06-13 11:33:20 pid:5156 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:31
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00+&\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #710)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-13 11:33:20 pid:5156 Worker[5156] process terminated
+2019-06-13 11:33:20 pid:6107 worker[none:5156] exit with status 64000
+2019-06-13 13:42:40 pid:24612 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::goInNoDB() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 25 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:138
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"id": "raspber...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #5946)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-13 13:42:40 pid:24612 Worker[24612] process terminated
+2019-06-13 13:42:40 pid:6107 worker[none:24612] exit with status 64000
+2019-06-13 13:44:10 pid:24613 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::goInNoDB() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 25 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:138
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"data": {}, "i...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #9374)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-13 13:44:10 pid:24613 Worker[24613] process terminated
+2019-06-13 13:44:10 pid:6107 worker[none:24613] exit with status 64000
+2019-06-13 13:45:20 pid:26602 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlue() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:31
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlue(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"time": "2019-...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #7535)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-13 13:45:20 pid:26602 Worker[26602] process terminated
+2019-06-13 13:45:20 pid:6107 worker[none:26602] exit with status 64000
+2019-06-13 13:46:50 pid:20363 Predis\Response\ServerException: ERR Protocol error: invalid bulk length in /home/archer/instance_30001/vendor/predis/predis/src/Client.php:370
+Stack trace:
+#0 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(335): Predis\Client->onErrorResponse(Object(Predis\Command\ZSetAdd), Object(Predis\Response\Error))
+#1 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(314): Predis\Client->executeCommand(Object(Predis\Command\ZSetAdd))
+#2 /home/archer/instance_30001/src/RaspiDataConvey.php(161): Predis\Client->__call('zadd', Array)
+#3 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(Array)
+#4 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"order": ["U",...')
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #59)
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#13 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#14 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#15 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#16 {main}
+2019-06-13 13:46:50 pid:20363 Worker[20363] process terminated
+2019-06-13 13:46:50 pid:6107 worker[none:20363] exit with status 64000
+2019-06-13 13:48:25 pid:27909 Predis\Response\ServerException: ERR Protocol error: invalid bulk length in /home/archer/instance_30001/vendor/predis/predis/src/Client.php:370
+Stack trace:
+#0 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(335): Predis\Client->onErrorResponse(Object(Predis\Command\ZSetAdd), Object(Predis\Response\Error))
+#1 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(314): Predis\Client->executeCommand(Object(Predis\Command\ZSetAdd))
+#2 /home/archer/instance_30001/src/RaspiDataConvey.php(161): Predis\Client->__call('zadd', Array)
+#3 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(Array)
+#4 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"Vibration": [...')
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #60)
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#13 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#14 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#15 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#16 {main}
+2019-06-13 13:48:25 pid:27909 Worker[27909] process terminated
+2019-06-13 13:48:25 pid:6107 worker[none:27909] exit with status 64000
+2019-06-13 13:51:48 pid:28048 Predis\Response\ServerException: ERR Protocol error: invalid bulk length in /home/archer/instance_30001/vendor/predis/predis/src/Client.php:370
+Stack trace:
+#0 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(335): Predis\Client->onErrorResponse(Object(Predis\Command\ZSetAdd), Object(Predis\Response\Error))
+#1 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(314): Predis\Client->executeCommand(Object(Predis\Command\ZSetAdd))
+#2 /home/archer/instance_30001/src/RaspiDataConvey.php(161): Predis\Client->__call('zadd', Array)
+#3 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(Array)
+#4 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"order": ["U",...')
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #62)
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#13 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#14 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#15 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#16 {main}
+2019-06-13 13:51:48 pid:28048 Worker[28048] process terminated
+2019-06-13 13:51:48 pid:6107 worker[none:28048] exit with status 64000
+2019-06-13 14:25:26 pid:30696 Workerman[websocket_sender_40003.php] restart 
+2019-06-13 14:25:26 pid:30696 Workerman[websocket_sender_40003.php] is stopping ...
+2019-06-13 14:25:26 pid:4806 Workerman[websocket_sender_40003.php] stopping ...
+2019-06-13 14:25:26 pid:4806 Workerman[websocket_sender_40003.php] has been stopped
+2019-06-13 14:25:26 pid:30696 Workerman[websocket_sender_40003.php] stop success
+2019-06-13 14:30:01 pid:28403 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::goInNoDB() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 25 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:138
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"id": "raspber...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #65)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#13 {main}
+2019-06-13 14:30:01 pid:28403 Worker[28403] process terminated
+2019-06-13 14:30:01 pid:6107 worker[none:28403] exit with status 64000
+2019-06-13 14:36:39 pid:31618 Workerman[websocket_sender_40003.php] restart 
+2019-06-13 14:36:39 pid:31618 Workerman[websocket_sender_40003.php] is stopping ...
+2019-06-13 14:36:39 pid:30698 Workerman[websocket_sender_40003.php] stopping ...
+2019-06-13 14:36:39 pid:30698 Workerman[websocket_sender_40003.php] has been stopped
+2019-06-13 14:36:39 pid:31618 Workerman[websocket_sender_40003.php] stop success
+2019-06-13 14:37:20 pid:31678 Workerman[websocket_sender_40003.php] restart 
+2019-06-13 14:37:20 pid:31678 Workerman[websocket_sender_40003.php] is stopping ...
+2019-06-13 14:37:20 pid:31620 Workerman[websocket_sender_40003.php] stopping ...
+2019-06-13 14:37:20 pid:31620 Workerman[websocket_sender_40003.php] has been stopped
+2019-06-13 14:37:20 pid:31678 Workerman[websocket_sender_40003.php] stop success
+2019-06-13 14:43:25 pid:31684 Worker[31684] process terminated with ERROR: E_COMPILE_ERROR "require(): Failed opening required '/home/archer/instance_30001/src/../../../vendor/autoload.php' (include_path='.:/usr/share/pear:/usr/share/php') in /home/archer/instance_30001/src/RaspiDataConvey.php on line 14"
+2019-06-13 14:43:25 pid:31680 worker[none:31684] exit with status 65280
+2019-06-13 14:56:43 pid:32765 Workerman[websocket_sender_40003.php] restart 
+2019-06-13 14:56:43 pid:32765 Workerman[websocket_sender_40003.php] is stopping ...
+2019-06-13 14:56:43 pid:31680 Workerman[websocket_sender_40003.php] stopping ...
+2019-06-13 14:56:43 pid:31680 Workerman[websocket_sender_40003.php] has been stopped
+2019-06-13 14:56:43 pid:32765 Workerman[websocket_sender_40003.php] stop success
+2019-06-13 15:20:38 pid:2540 Workerman[websocket_sender_40003.php] restart 
+2019-06-13 15:20:38 pid:2540 Workerman[websocket_sender_40003.php] is stopping ...
+2019-06-13 15:20:38 pid:32767 Workerman[websocket_sender_40003.php] stopping ...
+2019-06-13 15:20:38 pid:32767 Workerman[websocket_sender_40003.php] has been stopped
+2019-06-13 15:20:38 pid:2540 Workerman[websocket_sender_40003.php] stop success
+2019-06-14 10:12:00 pid:6283 Workerman[receiver_30001.php] restart 
+2019-06-14 10:12:00 pid:6283 Workerman[receiver_30001.php] is stopping ...
+2019-06-14 10:12:00 pid:6107 Workerman[receiver_30001.php] stopping ...
+2019-06-14 10:12:00 pid:6107 Workerman[receiver_30001.php] has been stopped
+2019-06-14 10:12:00 pid:6283 Workerman[receiver_30001.php] stop success
+2019-06-14 11:13:15 pid:6288 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 21 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(21): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"data": {"48":...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #1316)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#11 {main}
+2019-06-14 11:13:15 pid:6288 Worker[6288] process terminated
+2019-06-14 11:13:16 pid:6286 worker[none:6288] exit with status 64000
+2019-06-14 11:22:53 pid:10951 Workerman[receiver_30001.php] restart 
+2019-06-14 11:22:53 pid:10951 Workerman[receiver_30001.php] is stopping ...
+2019-06-14 11:22:53 pid:6286 Workerman[receiver_30001.php] stopping ...
+2019-06-14 11:22:53 pid:6286 Workerman[receiver_30001.php] has been stopped
+2019-06-14 11:22:53 pid:10951 Workerman[receiver_30001.php] stop success
+2019-06-14 11:38:51 pid:11944 Workerman[receiver_30001.php] restart 
+2019-06-14 11:38:51 pid:11944 Workerman[receiver_30001.php] is stopping ...
+2019-06-14 11:38:51 pid:10953 Workerman[receiver_30001.php] stopping ...
+2019-06-14 11:38:51 pid:10953 Workerman[receiver_30001.php] has been stopped
+2019-06-14 11:38:51 pid:11944 Workerman[receiver_30001.php] stop success
+2019-06-14 11:39:44 pid:12023 Workerman[receiver_30001.php] restart 
+2019-06-14 11:39:44 pid:12023 Workerman[receiver_30001.php] is stopping ...
+2019-06-14 11:39:44 pid:11946 Workerman[receiver_30001.php] stopping ...
+2019-06-14 11:39:44 pid:11946 Workerman[receiver_30001.php] has been stopped
+2019-06-14 11:39:44 pid:12023 Workerman[receiver_30001.php] stop success
+2019-06-14 11:43:06 pid:12029 Predis\Response\ServerException: ERR Protocol error: invalid bulk length in /home/archer/instance_30001/vendor/predis/predis/src/Client.php:370
+Stack trace:
+#0 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(335): Predis\Client->onErrorResponse(Object(Predis\Command\ZSetAdd), Object(Predis\Response\Error))
+#1 /home/archer/instance_30001/vendor/predis/predis/src/Client.php(314): Predis\Client->executeCommand(Object(Predis\Command\ZSetAdd))
+#2 /home/archer/instance_30001/src/RaspiDataConvey.php(208): Predis\Client->__call('zadd', Array)
+#3 /home/archer/instance_30001/api/receiver_30001.php(25): Moech\Data\Raspi\RaspiDataConvey->goInNoDB(Array)
+#4 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"Vibration": [...')
+#6 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #46)
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#12 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#13 /home/archer/instance_30001/api/receiver_30001.php(31): Workerman\Worker::runAll()
+#14 {main}
+2019-06-14 11:43:06 pid:12029 Worker[12029] process terminated
+2019-06-14 11:43:06 pid:12026 worker[none:12029] exit with status 64000
+2019-06-14 15:04:32 pid:24043 Workerman[receiver_30001.php] restart 
+2019-06-14 15:04:32 pid:24043 Workerman[receiver_30001.php] is stopping ...
+2019-06-14 15:04:32 pid:12026 Workerman[receiver_30001.php] stopping ...
+2019-06-14 15:04:32 pid:12026 Workerman[receiver_30001.php] has been stopped
+2019-06-14 15:04:32 pid:24043 Workerman[receiver_30001.php] stop success
+2019-06-14 15:05:42 pid:24048 Worker[24048] process terminated
+2019-06-14 15:06:55 pid:24196 Workerman[receiver_30001.php] restart 
+2019-06-14 15:06:55 pid:24196 Workerman[receiver_30001.php] is stopping ...
+2019-06-14 15:06:55 pid:24047 Workerman[receiver_30001.php] stopping ...
+2019-06-14 15:06:55 pid:24047 Workerman[receiver_30001.php] has been stopped
+2019-06-14 15:06:55 pid:24196 Workerman[receiver_30001.php] stop success
+2019-06-14 15:20:32 pid:25709 Workerman[receiver_30001.php] restart 
+2019-06-14 15:20:32 pid:25709 Workerman[receiver_30001.php] is stopping ...
+2019-06-14 15:20:32 pid:24198 Workerman[receiver_30001.php] stopping ...
+2019-06-14 15:20:32 pid:24198 Workerman[receiver_30001.php] has been stopped
+2019-06-14 15:20:32 pid:25709 Workerman[receiver_30001.php] stop success
+2019-06-14 22:41:04 pid:18732 Workerman[socket_sender_40002.php] restart 
+2019-06-14 22:41:04 pid:18732 Workerman[socket_sender_40002.php] is stopping ...
+2019-06-14 22:41:04 pid:5139 Workerman[socket_sender_40002.php] stopping ...
+2019-06-14 22:41:04 pid:5139 Workerman[socket_sender_40002.php] has been stopped
+2019-06-14 22:41:04 pid:18732 Workerman[socket_sender_40002.php] stop success
+2019-06-15 09:09:52 pid:19408 Workerman[receiver_30001.php] restart 
+2019-06-15 09:09:52 pid:19408 Workerman[receiver_30001.php] is stopping ...
+2019-06-15 09:09:52 pid:25711 Workerman[receiver_30001.php] stopping ...
+2019-06-15 09:09:52 pid:25711 Workerman[receiver_30001.php] has been stopped
+2019-06-15 09:09:52 pid:19408 Workerman[receiver_30001.php] stop success
+2019-06-17 18:07:59 pid:19415 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #361)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#11 {main}
+2019-06-17 18:07:59 pid:19415 Worker[19415] process terminated
+2019-06-17 18:07:59 pid:19411 worker[none:19415] exit with status 64000
+2019-06-17 20:29:21 pid:19416 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #46)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#11 {main}
+2019-06-17 20:29:21 pid:19416 Worker[19416] process terminated
+2019-06-17 20:29:21 pid:19411 worker[none:19416] exit with status 64000
+2019-06-20 17:47:36 pid:10793 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00+&\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #199)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-06-20 17:47:36 pid:10793 Worker[10793] process terminated
+2019-06-20 17:47:36 pid:19411 worker[none:10793] exit with status 64000
+2019-06-21 20:16:54 pid:19414 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #125)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#11 {main}
+2019-06-21 20:16:54 pid:19414 Worker[19414] process terminated
+2019-06-21 20:16:54 pid:19411 worker[none:19414] exit with status 64000
+2019-06-23 11:17:43 pid:21471 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-06-23 11:17:43 pid:21471 Worker[21471] process terminated
+2019-06-23 11:17:43 pid:19411 worker[none:21471] exit with status 64000
+2019-06-25 00:42:22 pid:19413 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00+&\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #280)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(509): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#11 {main}
+2019-06-25 00:42:22 pid:19413 Worker[19413] process terminated
+2019-06-25 00:42:22 pid:19411 worker[none:19413] exit with status 64000
+2019-06-25 02:54:19 pid:8415 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #49)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-06-25 02:54:19 pid:8415 Worker[8415] process terminated
+2019-06-25 02:54:19 pid:19411 worker[none:8415] exit with status 64000
+2019-06-25 09:45:37 pid:1298 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '{"Vibration": [...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #52)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-06-25 09:45:37 pid:1298 Worker[1298] process terminated
+2019-06-25 09:45:37 pid:19411 worker[none:1298] exit with status 64000
+2019-06-27 01:51:17 pid:12093 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #130)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-06-27 01:51:17 pid:12093 Worker[12093] process terminated
+2019-06-27 01:51:17 pid:19411 worker[none:12093] exit with status 64000
+2019-06-28 09:01:16 pid:476 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #131)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-06-28 09:01:16 pid:476 Worker[476] process terminated
+2019-06-28 09:01:16 pid:19411 worker[none:476] exit with status 64000
+2019-06-29 03:42:57 pid:14206 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #177)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-06-29 03:42:57 pid:14206 Worker[14206] process terminated
+2019-06-29 03:42:57 pid:19411 worker[none:14206] exit with status 64000
+2019-06-29 23:48:31 pid:25172 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #50)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-06-29 23:48:31 pid:25172 Worker[25172] process terminated
+2019-06-29 23:48:31 pid:19411 worker[none:25172] exit with status 64000
+2019-06-30 16:02:49 pid:17901 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #55)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-06-30 16:02:49 pid:17901 Worker[17901] process terminated
+2019-06-30 16:02:49 pid:19411 worker[none:17901] exit with status 64000
+2019-07-02 22:23:28 pid:7991 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #56)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-02 22:23:28 pid:7991 Worker[7991] process terminated
+2019-07-02 22:23:28 pid:19411 worker[none:7991] exit with status 64000
+2019-07-04 11:56:58 pid:19674 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #58)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-04 11:56:58 pid:19674 Worker[19674] process terminated
+2019-07-04 11:56:58 pid:19411 worker[none:19674] exit with status 64000
+2019-07-07 22:53:59 pid:19625 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #57)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-07 22:53:59 pid:19625 Worker[19625] process terminated
+2019-07-07 22:53:59 pid:19411 worker[none:19625] exit with status 64000
+2019-07-07 23:03:48 pid:3206 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #60)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-07 23:03:48 pid:3206 Worker[3206] process terminated
+2019-07-07 23:03:48 pid:19411 worker[none:3206] exit with status 64000
+2019-07-07 23:03:49 pid:22423 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #62)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-07 23:03:49 pid:22423 Worker[22423] process terminated
+2019-07-07 23:03:49 pid:19411 worker[none:22423] exit with status 64000
+2019-07-08 08:13:51 pid:26034 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #61)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-08 08:13:51 pid:26034 Worker[26034] process terminated
+2019-07-08 08:13:51 pid:19411 worker[none:26034] exit with status 64000
+2019-07-09 12:40:46 pid:20377 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #65)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-09 12:40:46 pid:20377 Worker[20377] process terminated
+2019-07-09 12:40:46 pid:19411 worker[none:20377] exit with status 64000
+2019-07-11 02:42:54 pid:25134 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #62)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-11 02:42:54 pid:25134 Worker[25134] process terminated
+2019-07-11 02:42:54 pid:19411 worker[none:25134] exit with status 64000
+2019-07-11 05:03:01 pid:7546 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #66)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-11 05:03:01 pid:7546 Worker[7546] process terminated
+2019-07-11 05:03:01 pid:19411 worker[none:7546] exit with status 64000
+2019-07-11 05:03:01 pid:23074 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #67)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-11 05:03:01 pid:23074 Worker[23074] process terminated
+2019-07-11 05:03:02 pid:19411 worker[none:23074] exit with status 64000
+2019-07-16 18:53:14 pid:25635 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #63)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-16 18:53:14 pid:25635 Worker[25635] process terminated
+2019-07-16 18:53:14 pid:19411 worker[none:25635] exit with status 64000
+2019-07-18 09:25:11 pid:29982 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #68)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-18 09:25:11 pid:29982 Worker[29982] process terminated
+2019-07-18 09:25:11 pid:19411 worker[none:29982] exit with status 64000
+2019-07-18 17:52:38 pid:29984 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00+&\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #69)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-18 17:52:38 pid:29984 Worker[29984] process terminated
+2019-07-18 17:52:38 pid:19411 worker[none:29984] exit with status 64000
+2019-07-21 14:09:21 pid:25637 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #67)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-21 14:09:21 pid:25637 Worker[25637] process terminated
+2019-07-21 14:09:21 pid:19411 worker[none:25637] exit with status 64000
+2019-07-22 05:59:36 pid:29458 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #71)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-22 05:59:36 pid:29458 Worker[29458] process terminated
+2019-07-22 05:59:36 pid:19411 worker[none:29458] exit with status 64000
+2019-07-22 05:59:37 pid:22203 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #72)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-22 05:59:37 pid:22203 Worker[22203] process terminated
+2019-07-22 05:59:37 pid:19411 worker[none:22203] exit with status 64000
+2019-07-23 23:15:49 pid:31232 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #73)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-23 23:15:49 pid:31232 Worker[31232] process terminated
+2019-07-23 23:15:49 pid:19411 worker[none:31232] exit with status 64000
+2019-07-24 07:34:01 pid:9266 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #74)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-24 07:34:01 pid:9266 Worker[9266] process terminated
+2019-07-24 07:34:01 pid:19411 worker[none:9266] exit with status 64000
+2019-07-24 07:34:05 pid:13378 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #74)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-24 07:34:05 pid:13378 Worker[13378] process terminated
+2019-07-24 07:34:05 pid:19411 worker[none:13378] exit with status 64000
+2019-07-24 12:19:20 pid:13380 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #75)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-24 12:19:20 pid:13380 Worker[13380] process terminated
+2019-07-24 12:19:20 pid:19411 worker[none:13380] exit with status 64000
+2019-07-25 15:29:44 pid:6359 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #76)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-25 15:29:44 pid:6359 Worker[6359] process terminated
+2019-07-25 15:29:44 pid:19411 worker[none:6359] exit with status 64000
+2019-07-27 21:57:08 pid:30962 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #77)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-27 21:57:08 pid:30962 Worker[30962] process terminated
+2019-07-27 21:57:08 pid:19411 worker[none:30962] exit with status 64000
+2019-07-28 06:02:01 pid:13115 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #79)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-28 06:02:01 pid:13115 Worker[13115] process terminated
+2019-07-28 06:02:01 pid:19411 worker[none:13115] exit with status 64000
+2019-07-28 06:02:02 pid:31672 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00*%\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #81)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-28 06:02:02 pid:31672 Worker[31672] process terminated
+2019-07-28 06:02:02 pid:19411 worker[none:31672] exit with status 64000
+2019-07-29 09:10:06 pid:30966 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #81)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-29 09:10:06 pid:30966 Worker[30966] process terminated
+2019-07-29 09:10:06 pid:19411 worker[none:30966] exit with status 64000
+2019-07-30 12:17:26 pid:23319 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), '\x03\x00\x00/*\xE0\x00\x00\x00\x00\x00Cook...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #82)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-30 12:17:26 pid:23319 Worker[23319] process terminated
+2019-07-30 12:17:26 pid:19411 worker[none:23319] exit with status 64000
+2019-07-30 18:59:42 pid:23320 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #83)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-07-30 18:59:42 pid:23320 Worker[23320] process terminated
+2019-07-30 18:59:42 pid:19411 worker[none:23320] exit with status 64000
+2019-08-01 13:26:26 pid:32016 TypeError: Argument 1 passed to Moech\Data\Raspi\RaspiDataConvey::queryGlueParody() must be of the type array, null given, called in /home/archer/instance_30001/api/receiver_30001.php on line 22 and defined in /home/archer/instance_30001/src/RaspiDataConvey.php:113
+Stack trace:
+#0 /home/archer/instance_30001/api/receiver_30001.php(22): Moech\Data\Raspi\RaspiDataConvey->queryGlueParody(NULL)
+#1 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), NULL)
+#2 /home/archer/instance_30001/vendor/workerman/workerman/Connection/TcpConnection.php(681): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), 'GET / HTTP/1.0\r...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #80)
+#4 /home/archer/instance_30001/vendor/workerman/workerman/Events/Select.php(294): call_user_func_array(Array, Array)
+#5 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(2357): Workerman\Events\Select->loop()
+#6 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1488): Workerman\Worker->run()
+#7 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1318): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#8 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1292): Workerman\Worker::forkWorkersForLinux()
+#9 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1622): Workerman\Worker::forkWorkers()
+#10 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(1571): Workerman\Worker::monitorWorkersForLinux()
+#11 /home/archer/instance_30001/vendor/workerman/workerman/Worker.php(511): Workerman\Worker::monitorWorkers()
+#12 /home/archer/instance_30001/api/receiver_30001.php(30): Workerman\Worker::runAll()
+#13 {main}
+2019-08-01 13:26:26 pid:32016 Worker[32016] process terminated
+2019-08-01 13:26:26 pid:19411 worker[none:32016] exit with status 64000
